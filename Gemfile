@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'thin'
 gem 'require_all'
-gem 'ActiveRecord 4.2.5'
+gem 'ActiveRecord' '4.2.5'
 gem 'sinatra-activerecord'
 gem 'rake'
 
